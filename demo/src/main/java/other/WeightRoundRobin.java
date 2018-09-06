@@ -1,4 +1,4 @@
-package demo.jingdong.diary;
+package other;
 
 import java.util.ArrayList;
 import java.util.List;

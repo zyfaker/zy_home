@@ -1,4 +1,4 @@
-package demo.jingdong.diary;
+package Tree;
 
 import com.thoughtworks.xstream.XStream;
 

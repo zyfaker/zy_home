@@ -1,8 +1,5 @@
-package demo.jingdong.diary;
+package other;
 
-import org.springframework.util.CollectionUtils;
-
-import java.util.Collections;
 import java.util.LinkedList;
 import java.util.Queue;
 

@@ -1,4 +1,4 @@
-package demo.jingdong.diary;
+package dynamic;
 
 import java.util.Scanner;
 

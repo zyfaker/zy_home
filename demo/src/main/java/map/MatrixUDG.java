@@ -1,4 +1,4 @@
-package demo.jingdong.diary;
+package map;
 
 import java.io.IOException;
 import java.util.Scanner;

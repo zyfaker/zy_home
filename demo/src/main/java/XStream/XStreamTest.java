@@ -1,9 +1,8 @@
-package demo.jingdong.diary;
+package XStream;
 
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.annotations.XStreamAlias;
 import com.thoughtworks.xstream.annotations.XStreamAsAttribute;
-import com.thoughtworks.xstream.annotations.XStreamImplicit;
 import com.thoughtworks.xstream.io.json.JettisonMappedXmlDriver;
 
 public class XStreamTest {
