@@ -1,11 +1,8 @@
 package string;
-
-import com.google.api.client.util.StringUtils;
-
 import java.util.*;
 
 /**
- * @anthor zhangyuan33@jd.com
+ * @author zhangyuan33@jd.com
  * @date 2018/9/6 15:00
  */
 public class StringSolution {

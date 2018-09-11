@@ -1,7 +1,7 @@
 package XStream;
 
 /**
- * @anthor zhangyuan33@jd.com
+ * @author zhangyuan33@jd.com
  * @date 2018/9/7 14:56
  */
 public class ShallowCopy {

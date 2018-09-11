@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * LongestPalindromeSubseq class
- * @anthor zhangyuan33@jd.com
+ * @author zhangyuan33@jd.com
  * @date 2018/9/7 9:42
  * 最长回文子序列
  * abbaba->abbba

@@ -3,7 +3,7 @@ package map;
 import java.util.Scanner;
 
 /**
- * @anthor zhangyuan33@jd.com
+ * @author zhangyuan33@jd.com
  * @date 2018/9/7 10:03
  */
 public class DFSTest {
