@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/trade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trade/src/main/webapp/statics/css/common.min.css" charset="UTF-8" />
   </component>
 </project>
