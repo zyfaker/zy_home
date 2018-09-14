@@ -75,7 +75,7 @@ public class EightQueen {
 			chessTemp[row][i] = 1;
 
 			if (isSafety(chessTemp, row, i)) {
-				putQueenAtRow(chessTemp, row + 1, left, up, leftTop);
+				putQueenAtRow(chessTemp, row + 1, leftTemp, upTemp, leftTopTemp);
 			}
 		}
 	}
